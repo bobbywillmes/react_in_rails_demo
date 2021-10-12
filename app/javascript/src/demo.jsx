@@ -2,6 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
 import Layout from './layout';
+import './demo.scss'
 
 const SubRoute = ({match}) => <p className="p-2 mt-2 border border-light">{match.url}</p>
 const Demo = () => (

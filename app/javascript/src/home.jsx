@@ -6,6 +6,7 @@ import './home.scss'
 const Home = () => (
   <Layout>
     <h1>Home page</h1>
+    <h2>More things to come..</h2>
   </Layout>
 )
 document.addEventListener('DOMContentLoaded', () => {

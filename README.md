@@ -1,24 +1,6 @@
-# README
+# React & Rails Full Stack Demo
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A very basic example of React running on a Rails server.
+It uses routing both on the server (home & demo) & client side routing with React router on demo page (Link A, B & C)
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Check it out on [Heroku](https://immense-chamber-70207.herokuapp.com/).
